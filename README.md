@@ -1,4 +1,4 @@
-<h3 align="center">Enamorada del desarrollo web.</h3>
+<h3 align="center">⚡Hi there! Soy Álex!</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/alexandracampo](https://github.com/alexandracampo)
 
