@@ -1,4 +1,4 @@
-### ⚡Hi there! Soy Álex!
+## ⚡Hi there! Soy Álex!
 
 - 🙋🏻‍♀️ Soy desarrolladora web junior.
 
@@ -6,9 +6,9 @@
 
 - 👨‍💻 Encuentra aquí todos mis proyectos: [https://github.com/alexandracampo](https://github.com/alexandracampo)
 
-- 📫 Contáctame en mis redes (linkedin/Twitter) o en: **alexandracampo86@gmail.com**
+- 📫 Contacta conmigo si tienes cualquier propuesta, sugerencia o comentario!
 
-- ⚡ I love: **Viajar 🧳 Comer 🍜 Música🎸**
+- ⚡ I love: **Viajar 🧳 Comer 🍜 Música 🎸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
