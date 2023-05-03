@@ -1,8 +1,12 @@
 <h3 align="center">⚡Hi there! Soy Álex!</h3>
 
+- 👩🏽‍💻 Soy desarrolladora web junior 
+
+- 🌱 Actualmente sigo formándome 
+
 - 👨‍💻 All of my projects are available at [https://github.com/alexandracampo](https://github.com/alexandracampo)
 
-- 📫 Contáctame en mis redes o en: **alexandracampo86@gmail.com**
+- 📫 Contáctame en mis redes (linkedin/Twitter) o en: **alexandracampo86@gmail.com**
 
 - ⚡ I love: **Viajar 🧳 Comer 🍜 Música🎸**
 
