@@ -4,7 +4,7 @@
 
 - 🌱 Actualmente sigo formándome 
 
-- 👨‍💻 All of my projects are available at [https://github.com/alexandracampo](https://github.com/alexandracampo)
+- 👨‍💻 Encuentra aquí todos mis proyectos: [https://github.com/alexandracampo](https://github.com/alexandracampo)
 
 - 📫 Contáctame en mis redes (linkedin/Twitter) o en: **alexandracampo86@gmail.com**
 
