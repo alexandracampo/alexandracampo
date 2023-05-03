@@ -1,10 +1,10 @@
 ## ⚡Hi there! Soy Álex!
 
-- 🙋🏻‍♀️ Soy desarrolladora web junior.
+- 🙋🏻‍♀️ Soy desarrolladora web.
 
 - 🌱 Actualmente sigo formándome en Javascript, React y maquetación con CSS3/HTML5.
 
-- 👨‍💻 Encuentra aquí todos mis proyectos: [https://github.com/alexandracampo](https://github.com/alexandracampo)
+- 👨‍💻 Encuentra más abajo todos mis proyectos.
 
 - 📫 Contacta conmigo si tienes cualquier propuesta, sugerencia o comentario!
 
