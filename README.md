@@ -1,6 +1,6 @@
 <h3 align="center">⚡Hi there! Soy Álex!</h3>
 
-- 👩🏽‍💻 Soy desarrolladora web junior 
+- 🙋🏻‍♀️ Soy desarrolladora web junior 
 
 - 🌱 Actualmente sigo formándome 
 
