@@ -4,7 +4,7 @@
 
 - 🌱 Actualmente sigo formándome en Javascript, React y maquetación con CSS3/HTML5.
 
-- 👨‍💻 Encuentra aquí todos mis proyectos: ![GitHub]([https://img.shields.io/github/stars/mouredev?style=social](https://github.com/alexandracampo))
+- 👨‍💻 Encuentra aquí todos mis proyectos: [![GitHub Álex](https://github.com/alexandracampo)]
 
 - 📫 Contacta conmigo si tienes cualquier propuesta, sugerencia o comentario!
 
