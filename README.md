@@ -1,4 +1,4 @@
-<h3 align="center">⚡Hi there! Soy Álex!</h3>
+### ⚡Hi there! Soy Álex!
 
 - 🙋🏻‍♀️ Soy desarrolladora web junior.
 
