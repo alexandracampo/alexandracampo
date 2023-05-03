@@ -1,8 +1,8 @@
 <h3 align="center">⚡Hi there! Soy Álex!</h3>
 
-- 🙋🏻‍♀️ Soy desarrolladora web junior 
+- 🙋🏻‍♀️ Soy desarrolladora web junior.
 
-- 🌱 Actualmente sigo formándome 
+- 🌱 Actualmente sigo formándome en Javascript, React y maquetación con CSS3/HTML5.
 
 - 👨‍💻 Encuentra aquí todos mis proyectos: [https://github.com/alexandracampo](https://github.com/alexandracampo)
 
