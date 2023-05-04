@@ -4,7 +4,7 @@
 
 - 🌱 Actualmente sigo formándome en Javascript, React y maquetación con CSS3/HTML5.
 
-- 👨‍💻 Esta es mi web: [https://github.com/alexandracampo](https://alexandracampo.github.io/alexandra-campo/)
+- 👨‍💻 Esta es mi web: [https://alexandracampo.github.io/alexandra-campo/]
 
 - 📫 Contacta conmigo si tienes cualquier propuesta, sugerencia o comentario!
 
