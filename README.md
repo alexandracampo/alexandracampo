@@ -1,6 +1,6 @@
 ## ⚡Hi there! Soy Álex!
 
-- 🙋🏻‍♀️ Soy desarrolladora web.
+- 🙋🏻‍♀️ Soy programadora.
 
 - 🌱 Actualmente sigo formándome en Javascript, React y maquetación con CSS3/HTML5.
 
