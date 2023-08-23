@@ -2,13 +2,13 @@
 
 - 🙋🏻‍♀️ Soy programadora.
 
-- 🌱 Actualmente sigo formándome en Javascript, React y maquetación con CSS3/HTML5.
+- 🌱 Actualmente sigo formándome en Javascript, React y CSS3/HTML5.
 
 - 👨‍💻 Esta es mi web: https://alexandracampo.github.io/alexandra-campo/
 
 - 📫 Contacta conmigo si tienes cualquier propuesta, sugerencia o comentario!
 
-- ⚡ I love: **Viajar 🧳 Comer 🍜 Música 🎸**
+- ⚡ I love: ** 🧳 🍜  🎸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
