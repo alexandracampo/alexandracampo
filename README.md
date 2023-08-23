@@ -8,7 +8,7 @@
 
 - 📫 Contacta conmigo si tienes cualquier propuesta, sugerencia o comentario!
 
-- ⚡ I love: ** 🧳 🍜  🎸**
+- ⚡ I love: 🧳  🍜  🎸
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
