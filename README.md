@@ -1,14 +1,12 @@
-## ⚡Hi there! Soy Álex!
+## ⚡Hola! Soy Álex!
 
 - 🙋🏻‍♀️ Soy programadora.
 
-- 🌱 Actualmente sigo formándome en Javascript, React y CSS3/HTML5.
+- 🌱 Javascript, React y CSS, HTML.
 
 - 👨‍💻 Esta es mi web: https://alexandracampo.github.io/alexandra-campo/
 
 - 📫 Contacta conmigo si tienes cualquier propuesta, sugerencia o comentario!
-
-- ⚡ I love: 🧳  🍜  🎸
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
