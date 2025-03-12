@@ -4,7 +4,7 @@
 
 - 🌱 Javascript, React y CSS, HTML.
 
-- 👨‍💻 Esta es mi web: https://alexandracampo.github.io/alexandra-campo/
+- 👨‍💻 Esta es mi web: https://alexandracampo.github.io/alexandra/
 
 - 📫 Contacta conmigo si tienes cualquier propuesta, sugerencia o comentario!
 
