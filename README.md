@@ -1,9 +1,9 @@
 ## ⚡Hola! Soy Álex!
 
-- 🙋🏻‍♀️ Soy programadora.
+- 🙋🏻‍♀️ Soy programadora frontend. Pero también he experimentado con backend (mySQL, MongDB, Express)
 
-- 🌱 Javascript, React y CSS, HTML.
-
+- 🌱 Tecnologías que utilizo actualmente o que he utilizado en algún proyecto: React, Javascript, HTML, CSS/Sass, Tailwind, Testing Library, Jest, Typescript, Lit.
+       
 - 👨‍💻 Esta es mi web: www.alexandracampo.com
 
 - 📫 Contacta conmigo si tienes cualquier propuesta, sugerencia o comentario!
