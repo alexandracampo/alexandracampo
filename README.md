@@ -1,6 +1,6 @@
 ## ⚡Hola! Soy Álex!
 
-- 🙋🏻‍♀️ Soy programadora frontend. Pero también he experimentado con backend (mySQL, MongDB, Express)
+- 🙋🏻‍♀️ Soy programadora frontend, pero también he experimentado con backend (mySQL, MongoDB, Node.js, Express)
 
 - 🌱 Tecnologías que utilizo actualmente o que he utilizado en algún proyecto: React, Javascript, HTML, CSS/Sass, Tailwind, Testing Library, Jest, Typescript, Lit.
        
